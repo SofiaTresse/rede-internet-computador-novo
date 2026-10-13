@@ -104,8 +104,6 @@ exatamente como foi informado, sem trocar caracteres.
 
 **Imagem 7 --- Configuração de rede da máquina**
 
-![Imagem 7 --- DHCP automático](./images/Imagem7.png)
-
 ## Checklist final
 
 Antes de encerrar, confirme os itens abaixo:
